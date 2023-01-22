@@ -85,8 +85,6 @@ const ProductsMain = () => {
                             </ul>
                         </li>
 
-                        {/* Fiz apenas um filtro pra ficar mais simples pra mim */}
-
                         {/*  <li>
                             <a to="#" title="Bottoms">
                                 Bottoms
